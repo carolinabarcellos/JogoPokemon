@@ -1,6 +1,6 @@
 # Jogo de Batalhas de Pokémons
 
-Este projeto implementa um jogo de batalhas entre Pokémons de dois jogadores, desenvolvido como parte de um trabalho prático.
+Este projeto implementa um jogo de batalhas entre Pokémons de dois jogadores, desenvolvido como parte de um trabalho prático para a disciplina Programação e Desenvolvimento de Software 1 da UFMG.
 
 ## Descrição do Problema
 
