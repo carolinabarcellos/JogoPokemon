@@ -35,3 +35,15 @@ O programa recebe como entrada um arquivo `.txt` contendo:
 
 ### Exemplo de entrada
 
+1 1
+Squirtle 10 15 15 agua Vulpix 15 15 15 fogo
+
+### Exemplo de saída
+
+Squirtle venceu Vulpix Jogador 1 venceu Pokémons sobreviventes: Squirtle
+Pokémons derrotados: Vulpix
+
+## Considerações
+
+Este projeto explora conceitos de simulação, estruturas de dados para controle dos Pokémons, e lógica condicional baseada em tipos para determinar efeitos de vantagem/desvantagem em batalhas.
+
