@@ -45,5 +45,5 @@ Pokémons derrotados: Vulpix
 
 ## Considerações
 
-Este projeto explora conceitos de simulação, estruturas de dados para controle dos Pokémons, e lógica condicional baseada em tipos para determinar efeitos de vantagem/desvantagem em batalhas.
+Este projeto foi feito na linguagem C e explora conceitos de simulação, estruturas de dados para controle dos Pokémons, e lógica condicional baseada em tipos para determinar efeitos de vantagem/desvantagem em batalhas.
 
